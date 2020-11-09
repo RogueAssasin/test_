@@ -1,3 +1,6 @@
+""" Plot of  x vs x**2 """
+print(__doc__)
+
 import matplotlib.pyplot as plt
 import numpy as np
 
